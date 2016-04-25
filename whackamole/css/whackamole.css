@@ -8,7 +8,7 @@
 .square {
     width: 125px;
     height: 125px;
-    background-image: url("whackamole/img/smole.jpeg");
+    background-image: url("/img/smole.jpeg");
     display: none;
     border-radius: 60px
 }
@@ -16,7 +16,7 @@
     display: block;
 }
 body {
-    background-image: url("whackamole/img/goldmember.jpg");
+    background-image: url("/img/goldmember.jpg");
     background-attachment: fixed;
     background-size: cover;
 }
