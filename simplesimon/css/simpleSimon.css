@@ -21,7 +21,7 @@
     /*background-color: rgb(255,0,0);*/
     opacity: 0.8;
     position: absolute;
-    background-image: url("/simplesimon/public/img/mufasa.png");
+    background-image: url("/simplesimon/img/mufasa.png");
 }
 
 #topRight {
@@ -29,7 +29,7 @@
     margin: 30px 10px 10px 270px;
     opacity: 0.8;
     position: absolute;
-    background-image: url("/simplesimon/public/img/scar.jpg");
+    background-image: url("/simplesimon/img/scar.jpg");
 }
 
 #bottomLeft {
@@ -37,7 +37,7 @@
     opacity: 0.8;
     position: absolute;
     margin: 280px 10px 10px 30px;
-    background-image: url("/simplesimon/public/img/rafiki.jpeg");
+    background-image: url("/simplesimon/img/rafiki.jpeg");
 }
 
 #bottomRight {
@@ -45,7 +45,7 @@
     opacity: 0.8;
     position: absolute;
     margin: 280px 10px 10px 270px;
-    background-image: url("/simplesimon/public/img/pumbaa.jpg");
+    background-image: url("/simplesimon/img/pumbaa.jpg");
 }
 .highlight {
     opacity: 1;
@@ -68,7 +68,7 @@ img {
     border-radius: 60px;
 }
 body {
-    background-image: url("/simplesimon/public/img/prideRock.jpg");
+    background-image: url("/simplesimon/img/prideRock.jpg");
     background-attachment: fixed;
     background-size: 100%;
 }
